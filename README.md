@@ -4,4 +4,4 @@ Written entirely in Python
 
 The first code-along project I ever did, back in March 2019
 
-Used the video by freecodecamp.org: https://www.youtube.com/watch?v=C6jJg9Zan7w
+(Almost) completely ripped off from a video by freecodecamp.org: https://www.youtube.com/watch?v=C6jJg9Zan7w
